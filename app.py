@@ -13,7 +13,7 @@ app.config['UPLOAD_FOLDER'] = 'static/uploads/'
 
 
 # Load the pre-trained pneumonia detection model
-model = load_model('/home/keyan/model/pneumonia_detection_model_18.h5')
+model = load_model('/model/pneumonia_detection_model_18.h5')
 
 # Define image size based on training data
 IMG_SIZE = 150
