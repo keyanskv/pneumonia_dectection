@@ -6,4 +6,4 @@ matplotlib
 scikit-learn
 opencv-python
 pillow
-flask
+Flask
