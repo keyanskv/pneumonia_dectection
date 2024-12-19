@@ -1,9 +1,9 @@
-TensorFlow
-Keras
+tensorflow
+keras
 numpy
 pandas
-Matplotlib
+matplotlib
 scikit-learn
-OpenCV
-PIL
+opencv-python
+pillow
 flask
